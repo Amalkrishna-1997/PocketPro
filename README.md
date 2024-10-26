@@ -35,8 +35,7 @@ For Hardware:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
+https://drive.google.com/drive/folders/1K-YaTPqPpzwCMez1hhrCRt3tZQORws9F?usp=sharing
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 Add caption explaining what this shows
@@ -45,12 +44,14 @@ Add caption explaining what this shows
 Add caption explaining what this shows
 
 # Diagrams
+https://drive.google.com/drive/folders/1K-YaTPqPpzwCMez1hhrCRt3tZQORws9F?usp=sharing
 ![Workflow](Add your workflow/architecture diagram here)
 Add caption explaining your workflow
 
 For Hardware:
 
 # Schematic & Circuit
+https://drive.google.com/drive/folders/1K-YaTPqPpzwCMez1hhrCRt3tZQORws9F?usp=sharing
 ![Circuit](Add your circuit diagram here)
 Add caption explaining connections
 
@@ -69,6 +70,7 @@ Explain the final build
 
 ### Project Demo
 # Video
+https://drive.google.com/drive/folders/1K-YaTPqPpzwCMez1hhrCRt3tZQORws9F?usp=sharing
 [Add your demo video link here]
 Explain what the video demonstrates
 
