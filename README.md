@@ -74,14 +74,14 @@ _Add caption explaining connections._
 #### Build Photos
 ![Components]
 (https://drive.google.com/file/d/1jt4Lww6LlRCwRdAuBcze5zzYJNjjk8bL/view?usp=drivesdk) 
-_List out all components shown._
+_Arduino uno and tft display_
 
 ![Build Process](Add photos of build process here)  
 _Explain the build steps._
 
 ![Final Product]
 (https://drive.google.com/file/d/1jfgR-gu7ehtcYEQv4jFqYWfF9zT7KxpT/view?usp=drivesdk)  
-_Explain the final build._
+_picture of final product._
 
 ---
 
