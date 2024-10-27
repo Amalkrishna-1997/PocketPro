@@ -79,7 +79,8 @@ _List out all components shown._
 ![Build Process](Add photos of build process here)  
 _Explain the build steps._
 
-![Final Product](Add photo of final product here)  
+![Final Product]
+(https://drive.google.com/file/d/1jfgR-gu7ehtcYEQv4jFqYWfF9zT7KxpT/view?usp=drivesdk)  
 _Explain the final build._
 
 ---
@@ -88,7 +89,7 @@ _Explain the final build._
 
 ### Video
 [Demo Video](https://youtu.be/2zsjePFqpZM?si=7iE4V1QHy0t9nJE5)  
-_Explain what the video demonstrates._
+_it contains the use and working of device._
 
 ### Additional Demos
 [Add any extra demo materials/links]
