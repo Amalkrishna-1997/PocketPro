@@ -46,13 +46,16 @@ Opening the task manager frequently to monitor PC performance can be tedious, es
 ## Project Documentation
 
 ### Software Screenshots
-![Screenshot1](Add screenshot 1 here)  
+![Screenshot1]
+(https://drive.google.com/file/d/1jiugPnughCPjRBEjIiY7W2XLFhTAEtXV/view?usp=drivesdk) 
 _Add caption explaining what this shows._
 
-![Screenshot2](Add screenshot 2 here)  
+![Screenshot2]
+(https://drive.google.com/file/d/1jfgR-gu7ehtcYEQv4jFqYWfF9zT7KxpT/view?usp=drivesdk)  
 _Add caption explaining what this shows._
 
-![Screenshot3](Add screenshot 3 here)  
+![Screenshot3]
+(https://drive.google.com/file/d/1jgsJhOSmxQTCHJMiWpQHJpNttLP0VXQu/view?usp=drivesdk)  
 _Add caption explaining what this shows._
 
 ### Workflow/Architecture Diagrams
@@ -69,7 +72,8 @@ _Add caption explaining the schematic._
 _Add caption explaining connections._
 
 #### Build Photos
-![Components](Add photo of your components here)  
+![Components]
+(https://drive.google.com/file/d/1jt4Lww6LlRCwRdAuBcze5zzYJNjjk8bL/view?usp=drivesdk) 
 _List out all components shown._
 
 ![Build Process](Add photos of build process here)  
@@ -83,7 +87,7 @@ _Explain the final build._
 ## Project Demo
 
 ### Video
-[Demo Video](https://drive.google.com/drive/folders/1K-YaTPqPpzwCMez1hhrCRt3tZQORws9F?usp=sharing)  
+[Demo Video](https://youtu.be/2zsjePFqpZM?si=7iE4V1QHy0t9nJE5)  
 _Explain what the video demonstrates._
 
 ### Additional Demos
