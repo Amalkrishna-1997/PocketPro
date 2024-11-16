@@ -8,6 +8,8 @@ Here's an updated **README.md** that includes the new information about **Pocket
 
 ## Basic Details
 
+project video:https://youtu.be/2zsjePFqpZM?si=s7UixvEbm5HUkad-
+
 ### Team Name: Electro Dynamo
 
 ### Team Members
